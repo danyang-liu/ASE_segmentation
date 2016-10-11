@@ -77,6 +77,7 @@ def get_n_topwords(dir_path, n):
         i = i + 1
 
 
+
 if __name__ == '__main__':
     dir = input('Root:')
 #    dir='../novel/AB/AC.TheMysteriousAffairatStyles.txt'
